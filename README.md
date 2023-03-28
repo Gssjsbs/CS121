@@ -13,8 +13,30 @@
 <p>Additionally, the ad revenue that the game will earn are all going to be transferred to the movement and people inclined in helping to solve the problems tackled in the 17 Sustainable Development Goals. This will help in raising funds for future projects of the movements and people that will get the donation. As a result, the programs will be much more effective and will reach a lot more people. Aside from this, the developers are also planning to put value on the trophies just like in NFT, this will be tackled further in the future of the program. </p>
 <p>Overall, the objective of Quantum Chase: Hunt For Victory In The Quantum Realm is to educate and raise awareness about the SDGs in a fun and interactive way, and motivate players to take action towards achieving these goals.</p>
 
+<h2>The Plan (How we plan to create)</h2>
+<dl>
+  <dt>Python</dt>
+  <dd>Python is a programming language that can be useful in creating the web-based quiz game, Quantum Chase: Hunt For Victory In The Quantum Realm, due to its web application development frameworks, code readability, and testing and debugging capabilities.</dd>
+  
+  <dt>Flask</dt>
+  <dd>Flask can help in developing the backend of Quantum Chase: Hunt For Victory In The Quantum Realm, managing data and resources, facilitating communication between the frontend and the database, and providing a secure and scalable framework for the application.</dd>
+  
+  <dt>HTML</dt>
+  <dd>HTML is responsible for the structure and organization of the content of Quantum Chase, while also facilitating accessibility, providing semantic markup, and ensuring cross-browser compatibility.</dd>
+
+  <dt>CSS</dt>
+  <dd>CSS can help in creating visually appealing designs, ensuring responsiveness, and maintaining consistency throughout the interface of Quantum Chase: Hunt For Victory In The Quantum Realm.</dd>
+  
+  <dt>JavaScript</dt>
+  <dd>JavaScript can help in creating interactive and dynamic elements, managing game logic, facilitating user interactions, handling events, and improving the overall functionality and performance of the program.</dd>
+  
+  <dt>BootStrap</dt>
+  <dd>Bootstrap reduces the development time and drastically improves the overall user experience by assisting in the creation of a responsive, mobile-friendly and visually consistent UI design for the program.</dd>
+</dl>
+
 <h2>Target Audience</h2>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Quantum Chase can be relevant to all ages despite the program being a simple game. With its futuristic and sublime aesthetics, it will most probably be accepted by kids and teenagers. As for adults, the test of knowledge that lies beyond the game's spectrum shall provide them with the entertainment and excitement that will surely give them a pleasurable and enjoyable experience.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Quantum Chase: Hunt For Victory In The Quantum Realm can be relevant to all ages despite the program being a simple game. With its futuristic and sublime aesthetics, it will most probably be accepted by kids and teenagers. As for adults, the test of knowledge that lies beyond the game's spectrum shall provide them with the entertainment and excitement that will surely give them a pleasurable and enjoyable experience.</p>
+<p>To sum up, Quantum Chase: Hunt For Victory In The Quantum Realm is a game that has something to offer to players of all ages. Its engaging format and futuristic aesthetics will make it a popular choice for the young, while the challenging questions and the opportunity to contribute to the SDGs will be appealing to the adults. By combining education and entertainment, Quantum Chase: Hunt For Victory In The Quantum Realm has the opportunity to inspire a new generation of global citizens committed to creating a sustainable future for our planet.</p>
 
 <hr>
 
