@@ -9,9 +9,9 @@
 * Manalo, Jett Mark
 
 ## Overview on the Purpose of the Program
-*The purpose of the "Quantum Chase: Hunt for Victory in the Quantum World" web game application is to promote awareness and education about the United Nations' 17 Sustainable Development Goals (SDGs) through an interactive and engaging platform.
+* The purpose of the "Quantum Chase: Hunt for Victory in the Quantum World" web game application is to promote awareness and education about the United Nations' 17 Sustainable Development Goals (SDGs) through an interactive and engaging platform.
 
-*The game's quiz questions are designed to provide players with a fun and challenging way to learn about the SDGs, their targets, and the ways in which individuals and organizations can contribute to achieving them. By playing the game, users can become more knowledgeable about global issues and understand the importance of taking action to create a more sustainable future.
+* The game's quiz questions are designed to provide players with a fun and challenging way to learn about the SDGs, their targets, and the ways in which individuals and organizations can contribute to achieving them. By playing the game, users can become more knowledgeable about global issues and understand the importance of taking action to create a more sustainable future.
 
 ## Summary on how the Program will work
 
